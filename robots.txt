@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boatbuddy.site/sitemap.xml
