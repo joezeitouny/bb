@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
+      <loc>https://boatbuddy.site/services.html</loc>
+      <lastmod>2024-11-15</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://boatbuddy.site/faq.html</loc>
+      <lastmod>2024-11-15</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://boatbuddy.site/terms.html</loc>
+      <lastmod>2024-11-15</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://boatbuddy.site/privacy.html</loc>
+      <lastmod>2024-11-15</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
       <loc>https://boatbuddy.site/index.html</loc>
       <lastmod>2024-11-14</lastmod>
       <changefreq>weekly</changefreq>
